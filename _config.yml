@@ -1,4 +1,3 @@
-title: Ramesh Boopathi
 email: sanjai.ramesh@gmail.com
 
 baseurl: ""
@@ -17,14 +16,6 @@ highlighter: rouge
 permalink: /blog/:title/
 
 show_excerpts: true
-
-header_pages:
-  - index.md
-  - projects.md
-  - architecture.md
-  - blog.md
-  - leadership.md
-  - contact.md
 
 collections:
   projects:
