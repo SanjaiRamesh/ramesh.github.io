@@ -1,6 +1,6 @@
 ---
 layout: home
-title: about
+title: About
 ---
 # Ramesh Boopathi
 
@@ -245,10 +245,3 @@ LinkedIn
 GitHub
 
 [https://github.com/SanjaiRamesh](https://github.com/SanjaiRamesh)
-
-
-Explore:
-- Projects
-- Architecture
-- Blog
-- Contact

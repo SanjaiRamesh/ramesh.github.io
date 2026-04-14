@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
-
 LinkedIn:
 https://linkedin.com/in/yourprofile
 

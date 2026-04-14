@@ -3,7 +3,7 @@ description: Staff / Principal Software Engineer | Distributed Systems | Payment
 theme: minima
 
 header_pages:
-  - about.md
+  - About.md
   - projects.md
   - architecture.md
   - blog.md
