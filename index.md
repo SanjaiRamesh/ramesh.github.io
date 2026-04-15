@@ -7,8 +7,6 @@ title: Home
 
 ### Staff / Principal Software Engineer | Distributed Systems | Payments | AWS | Java
 ---
-[About](/about/) | [Projects](/projects/) | [Architecture](/architecture/) | [Blog](/blog/) | [Contact](/contact/)
-
 ## About Me
 
 Engineering leader with **14+ years of experience** building scalable, secure, and high-performance backend systems across **FinTech, Payments, Banking, and Telecom** domains. Specialized in **Java, Spring Boot microservices, event-driven architecture (Kafka), and AWS cloud-native platforms**.
